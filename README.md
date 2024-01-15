@@ -15,14 +15,26 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+ 
+<b>Certifications</b>:
+  - [Comptia Security+](https://www.credly.com/badges/50f2d200-5f28-4507-bf9b-8b782e43934f/linked_in?t=rswgt2) <b></b>
+  
+  - [Comptia A+](https://www.credly.com/badges/50f2d200-5f28-4507-bf9b-8b782e43934f/linked_in?t=rswgt2) <b></b>
+
+  - [Introduction to the Threat Landscape 2.0 Issued by Fortinet](https://www.credly.com/badges/c99cc743-e8d7-4caf-a3c4-9ccb323e9ad6/linked_in?t=s46c1b) <b></b>
+
+   - [ABC of Malware Analysis by SOC Experts](  https://www.socexperts.com/share-certificate?serialno=12D6DDM4) <b></b>
+   
+  - [Introduction to the Threat Landscape 2.0 Issued by Fortinet](https://www.credly.com/badges/c99cc743-e8d7-4caf-a3c4-9ccb323e9ad6/linked_in?t=s46c1b) <b></b>
+
+
+
+  
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+Coming Soon!
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -31,10 +43,9 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+
+[facebook]: https://www.facebook.com/tashuusaini
+[linkedin]: https://www.linkedin.com/in/natasha-saini-72a6711b9/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -47,6 +58,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: she/her/hers...
 - ⚡ Fun fact: ...
 -->
