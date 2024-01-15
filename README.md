@@ -1,4 +1,4 @@
-<h1>Hi, I'm Natasha! <br/><a href="https://github.com/NATASHASAINI">I.T Support Specialist</a>  <a href="https://www.linkedin.com/in/natasha-saini-72a6711b9/">Cybersecurity Student</a> 
+<h1>Hi, I'm Natasha! <br/><a href="https://github.com/NATASHASAINI">I.T Support Specialist</a> & <a href="https://www.linkedin.com/in/natasha-saini-72a6711b9/">Cybersecurity Student</a> 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
