@@ -1,4 +1,4 @@
-<h1>Hi, I'm Natasha! <br/><a href="https://github.com/NATASHASAINI">I.T Support Specialist</a> & <a href="https://www.linkedin.com/in/natasha-saini-72a6711b9/">Cybersecurity Student</a> 
+<h1>Hi, I'm Natasha, an I.T Professional </a> <a href="https://www.linkedin.com/in/natasha-saini-72a6711b9/">
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -16,9 +16,6 @@
    
   - [Introduction to the Threat Landscape 2.0 Issued by Fortinet](https://www.credly.com/badges/c99cc743-e8d7-4caf-a3c4-9ccb323e9ad6/linked_in?t=s46c1b) <b></b>
 
-
-
-  
 
 
 <h2>📺 Popular YouTube Videos</h2>
