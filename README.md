@@ -15,6 +15,8 @@
   - [Comptia A+](https://www.credly.com/badges/50f2d200-5f28-4507-bf9b-8b782e43934f/linked_in?t=rswgt2) <b></b>
 
   - [Introduction to the Threat Landscape 2.0 Issued by Fortinet](https://www.credly.com/badges/c99cc743-e8d7-4caf-a3c4-9ccb323e9ad6/linked_in?t=s46c1b) <b></b>
+   
+   - [Fortinet Certified Fundamentals Cybersecurity](https://www.credly.com/badges/14b917a3-848d-41e2-9e8b-4d2babed6967/linked_in_profile) <b></b>
 
    - [ABC of Malware Analysis by SOC Experts](  https://www.socexperts.com/share-certificate?serialno=12D6DDM4) <b></b>
    
