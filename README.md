@@ -18,7 +18,6 @@
 
    - [ABC of Malware Analysis by SOC Experts](  https://www.socexperts.com/share-certificate?serialno=12D6DDM4) <b></b>
    
-  - [Introduction to the Threat Landscape 2.0 Issued by Fortinet](https://www.credly.com/badges/c99cc743-e8d7-4caf-a3c4-9ccb323e9ad6/linked_in?t=s46c1b) <b></b>
 
 
 
