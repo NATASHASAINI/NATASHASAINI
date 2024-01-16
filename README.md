@@ -5,6 +5,10 @@
 - <b>Azure/Cloud Project</b>
   - [Creating a live SOC / Honeynet in Azure](https://github.com/NATASHASAINI/CLOUD-SOC/tree/main) <b></b>
 
+ <b> Azure AD Logging And Monitoring</b>
+ - [Configuring Azure Active Directory (Tenant Level-Logging & Monitoring)](https://github.com/NATASHASAINI/AZURETENANT) <b></b>
+
+
 <b>Certifications</b>:
   - [Comptia Security+](https://www.credly.com/badges/50f2d200-5f28-4507-bf9b-8b782e43934f/linked_in?t=rswgt2) <b></b>
   
