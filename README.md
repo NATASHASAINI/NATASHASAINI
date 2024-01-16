@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
  <b>Azure/Cloud Project</b>
-  - [Creating a live SOC / Honeynet in Azure](https://github.com/NATASHASAINI/CLOUD-SOC/tree/main) <b></b>
+  - [Configuring a live SOC / Honeynet in Azure](https://github.com/NATASHASAINI/CLOUD-SOC/tree/main) <b></b>
 
  <b> Azure AD Logging And Monitoring</b>
  - [Configuring Azure Active Directory (Tenant Level-Logging & Monitoring)](https://github.com/NATASHASAINI/AZURETENANT) <b></b>
