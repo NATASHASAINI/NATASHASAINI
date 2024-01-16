@@ -18,6 +18,10 @@
    
    - [Fortinet Certified Fundamentals Cybersecurity](https://www.credly.com/badges/14b917a3-848d-41e2-9e8b-4d2babed6967/linked_in_profile) <b></b>
 
+  - [ Getting Started in Cybersecurity 2.0](https://www.credly.com/badges/8c071f77-0b5e-41d4-abd3-4d697ed9b51f/linked_in_profile) <b></b>
+  
+
+
    - [ABC of Malware Analysis by SOC Experts](  https://www.socexperts.com/share-certificate?serialno=12D6DDM4) <b></b>
    
 
