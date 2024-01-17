@@ -12,7 +12,7 @@
 <b>Certifications</b>:
   - [Comptia Security+](https://www.credly.com/badges/50f2d200-5f28-4507-bf9b-8b782e43934f/linked_in?t=rswgt2) <b></b>
   
-  - [Comptia A+](https://www.credly.com/badges/50f2d200-5f28-4507-bf9b-8b782e43934f/linked_in?t=rswgt2) <b></b>
+  - [Comptia A+](https://www.credly.com/badges/9a550a1c-13ef-43ed-bf88-b69d38f1a53d/linked_in) <b></b>
 
   - [Introduction to the Threat Landscape 2.0 Issued by Fortinet](https://www.credly.com/badges/c99cc743-e8d7-4caf-a3c4-9ccb323e9ad6/linked_in?t=s46c1b) <b></b>
    
