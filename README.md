@@ -9,7 +9,7 @@
  - [Configuring Azure Active Directory (Tenant Level-Logging & Monitoring)](https://github.com/NATASHASAINI/AZURETENANT) <b></b>
 
   <b> Vulnerability Management</b>
- - [Deploy Metapsloitable and Scan the target using Nessus)](https://github.com/NATASHASAINI/Vulnerable_Nessus) <b></b>
+ - [Deploy Metapsloitable and Scan the target using Nessus](https://github.com/NATASHASAINI/Vulnerable_Nessus) <b></b>
 
 
 <b>Certifications</b>:
