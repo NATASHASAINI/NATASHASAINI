@@ -8,6 +8,9 @@
  <b> Azure AD Logging And Monitoring</b>
  - [Configuring Azure Active Directory (Tenant Level-Logging & Monitoring)](https://github.com/NATASHASAINI/AZURETENANT) <b></b>
 
+  <b> Vulnerability Management</b>
+ - [Deploy Metapsloitable and Scan the target using Nessus)](https://github.com/NATASHASAINI/Vulnerable_Nessus) <b></b>
+
 
 <b>Certifications</b>:
   - [Comptia Security+](https://www.credly.com/badges/50f2d200-5f28-4507-bf9b-8b782e43934f/linked_in?t=rswgt2) <b></b>
