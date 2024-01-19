@@ -6,7 +6,7 @@
   - [Configuring a SOC / Honeynet in Azure(Monitoring Live Traffic)](https://github.com/NATASHASAINI/CLOUD-SOC/tree/main) <b></b>
 
  <b> Azure AD Logging And Monitoring</b>
- - [Configuring Azure Active Directory (Tenant Level-Logging & Monitoring)](https://github.com/NATASHASAINI/AZURETENANT) <b></b>
+ - [Configuring Azure Active Directory (Tenant Level-Logging & Monitoring)and analyzing logs using KQL](https://github.com/NATASHASAINI/AZURETENANT) <b></b>
 
   <b> Vulnerability Management</b>
  - [Deploy Metapsloitable and Scan the target using Nessus](https://github.com/NATASHASAINI/Vulnerable_Nessus) <b></b>
