@@ -1,6 +1,6 @@
 <h1>Hi, I'm Natasha! <a href="https://github.com/NATASHASAINI">,an I.T Professional</a>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity and Cloud Projects:</h2>
 
  <b>Azure/Cloud Project</b>
   - [Configuring a SOC / Honeynet in Azure(Monitoring Live Traffic)](https://github.com/NATASHASAINI/CLOUD-SOC/tree/main) <b></b>
