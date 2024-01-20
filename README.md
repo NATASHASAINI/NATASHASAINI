@@ -12,6 +12,9 @@
  - [Deploy Metapsloitable and Scan the target using Nessus](https://github.com/NATASHASAINI/Vulnerable_Nessus) <b></b>
 
 
+  <b> Mobile Device Management</b>
+   - [Wiping and Redeploying ios device(s) enrolled in ADE to another user in Meraki MDM](https://github.com/NATASHASAINI/Vulnerable_Nessus) <b></b>
+
 <b>Certifications</b>:
   - [Comptia Security+](https://www.credly.com/badges/50f2d200-5f28-4507-bf9b-8b782e43934f/linked_in?t=rswgt2) <b></b>
   
