@@ -30,17 +30,17 @@
 
 
 
-<h2>📺 Popular YouTube Videos</h2>
 
-Coming Soon!
+
+
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="NATASHASAINI | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
 [<img align="left" alt="NATASHASAINI | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="NATASHASAINI | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
-[youtube]: https://www.youtube.com/@natashabhanot
+
 [facebook]: https://www.facebook.com/tashuusaini
 [linkedin]: https://www.linkedin.com/in/natasha-saini-72a6711b9/
 
