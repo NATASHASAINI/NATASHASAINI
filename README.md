@@ -13,7 +13,7 @@
 
 
   <b> Mobile Device Management</b>
-   - [Wiping and Redeploying ios device(s) enrolled in ADE to another user in Meraki MDM](https://github.com/NATASHASAINI/Vulnerable_Nessus) <b></b>
+   - [Wiping and Redeploying ios device(s) enrolled in ADE to another user in Meraki MDM](https://github.com/NATASHASAINI/MAM_Cloud) <b></b>
 
 <b>Certifications</b>:
   - [Comptia Security+](https://www.credly.com/badges/50f2d200-5f28-4507-bf9b-8b782e43934f/linked_in?t=rswgt2) <b></b>
@@ -26,7 +26,6 @@
 
   - [ Getting Started in Cybersecurity 2.0](https://www.credly.com/badges/8c071f77-0b5e-41d4-abd3-4d697ed9b51f/linked_in_profile) <b></b>
   
-
 
    - [ABC of Malware Analysis by SOC Experts](  https://www.socexperts.com/share-certificate?serialno=12D6DDM4) <b></b>
    
