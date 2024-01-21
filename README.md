@@ -1,6 +1,6 @@
 <h1>Hi, I'm Natasha! <a href="https://github.com/NATASHASAINI">,an I.T Professional</a>
 
-<h2>👨‍💻 Cybersecurity and Cloud Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
  <b>Azure/Cloud Project</b>
   - [Configuring a SOC / Honeynet in Azure(Monitoring Live Traffic)](https://github.com/NATASHASAINI/CLOUD-SOC/tree/main) <b></b>
@@ -11,9 +11,12 @@
   <b> Vulnerability Management</b>
  - [Deploy Metapsloitable and Scan the target using Nessus](https://github.com/NATASHASAINI/Vulnerable_Nessus) <b></b>
 
-
   <b> Mobile Device Management</b>
    - [Wiping and Redeploying ios device(s) enrolled in ADE to another user in Meraki MDM](https://github.com/NATASHASAINI/MAM_Cloud) <b></b>
+
+<b> Linux </b>
+   - [ Assigning File Permissions in Linux](https://github.com/NATASHASAINI/Linux-permissions/blob/main/README.md) <b></b>
+  
 
 <b>Certifications</b>:
   - [Comptia Security+](https://www.credly.com/badges/50f2d200-5f28-4507-bf9b-8b782e43934f/linked_in?t=rswgt2) <b></b>
