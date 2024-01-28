@@ -18,8 +18,8 @@
    <b> MYSQL </b>
    - [ Application of Filters to SQL Queries](https://github.com/NATASHASAINI/sql) <b></b>
 
-   <b>Programming Language  </b>
-   - [ Library-Management-System using C++ and mySql](https://github.com/NATASHASAINI/CplusplusSQL) <b></b>
+   <b>Programming Language -C++  </b>
+   - [ Library-Management-System using C++ and MYSQL](https://github.com/NATASHASAINI/CplusplusSQL) <b></b>
 
    <b> Linux </b>
    - [ Assigning File Permissions in Linux](https://github.com/NATASHASAINI/Linux-permissions/blob/main/README.md) <b></b>
