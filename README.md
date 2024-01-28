@@ -19,7 +19,11 @@
 
    <b> MYSQL </b>
    - [ Application of Filters to SQL Queries](https://github.com/NATASHASAINI/sql) <b></b>
-  
+
+Research Publications
+
+- [ Enhancement of security using cryptographic techniques]( https://ieeexplore.ieee.org/document/7359224) <b></b>
+
 
 <b>Certifications</b>:
   - [Comptia Security+](https://www.credly.com/badges/50f2d200-5f28-4507-bf9b-8b782e43934f/linked_in?t=rswgt2) <b></b>
