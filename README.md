@@ -20,9 +20,12 @@
    <b> MYSQL </b>
    - [ Application of Filters to SQL Queries](https://github.com/NATASHASAINI/sql) <b></b>
 
-Research Publications
+<b>Research Publications</b>
 
 - [ Enhancement of security using cryptographic techniques]( https://ieeexplore.ieee.org/document/7359224) <b></b>
+- [ Implementation of security model in cognitive networks]( https://ieeexplore.ieee.org/document/7754538) <b></b>
+- [ A formal approach to security techniques in cognitive networks](  https://ieeexplore.ieee.org/document/7919575) <b></b>
+- [ Security enhancement technique in cognitive networks ](https://link.springer.com/article/10.1007/s41870-018-0183-3) <b></b>
 
 
 <b>Certifications</b>:
