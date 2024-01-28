@@ -12,7 +12,7 @@
  - [Deploy Metapsloitable and Scan the target using Nessus](https://github.com/NATASHASAINI/Vulnerable_Nessus) <b></b>
 
   <b> Mobile Device Management</b>
-   - [Wiping and Redeploying ios device(s) enrolled in ADE to another user in Meraki MDM](https://github.com/NATASHASAINI/MAM_Cloud) <b></b>
+   - [Wiping and Redeploying iOS device(s) enrolled in ADE to another user in Meraki MDM](https://github.com/NATASHASAINI/MAM_Cloud) <b></b>
 
 <b> Linux </b>
    - [ Assigning File Permissions in Linux](https://github.com/NATASHASAINI/Linux-permissions/blob/main/README.md) <b></b>
