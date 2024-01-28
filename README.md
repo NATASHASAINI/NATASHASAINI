@@ -14,14 +14,15 @@
   <b> Mobile Device Management</b>
    - [Wiping and Redeploying iOS device(s) enrolled in ADE to another user in Meraki MDM](https://github.com/NATASHASAINI/MAM_Cloud) <b></b>
 
-<b> Linux </b>
-   - [ Assigning File Permissions in Linux](https://github.com/NATASHASAINI/Linux-permissions/blob/main/README.md) <b></b>
 
    <b> MYSQL </b>
    - [ Application of Filters to SQL Queries](https://github.com/NATASHASAINI/sql) <b></b>
 
    <b>Programming Language  </b>
    - [ Library-Management-System using C++ and mySql](https://github.com/NATASHASAINI/CplusplusSQL) <b></b>
+
+   <b> Linux </b>
+   - [ Assigning File Permissions in Linux](https://github.com/NATASHASAINI/Linux-permissions/blob/main/README.md) <b></b>
 
 <b>Research Publications</b>
 
