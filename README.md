@@ -33,6 +33,9 @@
 
 
 <b>Certifications</b>:
+
+![image](https://github.com/NATASHASAINI/NATASHASAINI/assets/156629309/2e1f4769-5530-4ae8-8dc7-baa97c178397)
+
   - [Comptia Security+](https://www.credly.com/badges/50f2d200-5f28-4507-bf9b-8b782e43934f/linked_in?t=rswgt2) <b></b>
 
    - [Google Cybersecurity Certificate](https://www.credly.com/badges/2e0a9f42-05bf-4614-850e-4993ebcccec9/linked_in_profile) <b></b>
