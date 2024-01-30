@@ -34,6 +34,8 @@
 
 <b>Certifications</b>:
   - [Comptia Security+](https://www.credly.com/badges/50f2d200-5f28-4507-bf9b-8b782e43934f/linked_in?t=rswgt2) <b></b>
+
+   - [Google Cybersecurity Certificate](https://www.credly.com/badges/2e0a9f42-05bf-4614-850e-4993ebcccec9/linked_in_profile) <b></b>
   
   - [Comptia A+](https://www.credly.com/badges/9a550a1c-13ef-43ed-bf88-b69d38f1a53d/linked_in) <b></b>
 
@@ -43,15 +45,7 @@
 
   - [ Getting Started in Cybersecurity 2.0](https://www.credly.com/badges/8c071f77-0b5e-41d4-abd3-4d697ed9b51f/linked_in_profile) <b></b>
   
-   - [ABC of Malware Analysis by SOC Experts](  https://www.socexperts.com/share-certificate?serialno=12D6DDM4) <b></b>
-   
-
-
-
-
-
-
-
+  
 <h2> 🤳 Connect with me:</h2>
 
 
