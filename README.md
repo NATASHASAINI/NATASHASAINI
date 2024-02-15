@@ -11,9 +11,6 @@
   <b> Vulnerability Management</b>
  - [Deploy Metapsloitable and Scan the target using Nessus](https://github.com/NATASHASAINI/Vulnerable_Nessus) <b></b>
 
-  <b> Mobile Device Management</b>
-   - [Wiping and Redeploying iOS device(s) enrolled in ADE to another user in Meraki MDM](https://github.com/NATASHASAINI/MAM_Cloud) <b></b>
-
 
    <b> MYSQL </b>
    - [ Application of Filters to SQL Queries](https://github.com/NATASHASAINI/sql) <b></b>
