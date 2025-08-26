@@ -17,6 +17,9 @@
  <b> MYSQL </b>
    - [ Application of Filters to SQL Queries](https://github.com/NATASHASAINI/sql) <b></b>
 
+   <b>Programming Language -Python  </b>
+   - [ Number Guessing Game in Python](https://github.com/NATASHASAINI/python) <b></b>
+
  <b>Programming Language -C++  </b>
    - [ Library-Management-System using C++ and MYSQL](https://github.com/NATASHASAINI/CplusplusSQL) <b></b>
 
@@ -34,16 +37,16 @@
 <b>Certifications</b>:
 
 ![image](https://github.com/NATASHASAINI/NATASHASAINI/assets/156629309/2e1f4769-5530-4ae8-8dc7-baa97c178397)
-
-  - [Comptia Security+](https://www.credly.com/badges/50f2d200-5f28-4507-bf9b-8b782e43934f/linked_in?t=rswgt2) <b></b>
-
+    
+   - [Create Your First Python Program From UST](https://www.coursera.org/account/accomplishments/verify/D1X4V72MA937) <b></b>
+   - [Comptia Security+](https://www.credly.com/badges/50f2d200-5f28-4507-bf9b-8b782e43934f/linked_in?t=rswgt2)) <b></b>
    - [Google Cybersecurity Certificate](https://www.credly.com/badges/2e0a9f42-05bf-4614-850e-4993ebcccec9/linked_in_profile) <b></b>
   
   - [Comptia A+](https://www.credly.com/badges/9a550a1c-13ef-43ed-bf88-b69d38f1a53d/linked_in) <b></b>
 
   - [Introduction to the Threat Landscape 2.0 Issued by Fortinet](https://www.credly.com/badges/c99cc743-e8d7-4caf-a3c4-9ccb323e9ad6/linked_in?t=s46c1b) <b></b>
    
-   - [Fortinet Certified Fundamentals Cybersecurity](https://www.credly.com/badges/14b917a3-848d-41e2-9e8b-4d2babed6967/linked_in_profile) <b></b>
+  - [Fortinet Certified Fundamentals Cybersecurity](https://www.credly.com/badges/14b917a3-848d-41e2-9e8b-4d2babed6967/linked_in_profile) <b></b>
 
   - [ Getting Started in Cybersecurity 2.0](https://www.credly.com/badges/8c071f77-0b5e-41d4-abd3-4d697ed9b51f/linked_in_profile) <b></b>
 
