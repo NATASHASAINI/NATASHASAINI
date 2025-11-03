@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Projects:</h2>
 
+<b>Python,Numpy,Pandas,Scikit-Learn  </b>
+   - [Comparative Analysis of Regression Models for California Housing Price Prediction](https://github.com/NATASHASAINI/python) <b></b>
+
  <b>Azure/Cloud Project</b>
   - [Configuring a SOC / Honeynet in Azure(Monitoring Live Traffic)](https://github.com/NATASHASAINI/CLOUD-SOC/tree/main) <b></b>
 
@@ -16,9 +19,6 @@
 
  <b> MYSQL </b>
    - [ Application of Filters to SQL Queries](https://github.com/NATASHASAINI/sql) <b></b>
-
- <b>Python,Numpy,Pandas,Scikit-Learn  </b>
-   - [Comparative Analysis of Regression Models for California Housing Price Prediction](https://github.com/NATASHASAINI/python) <b></b>
 
  <b>Programming Language -C++  </b>
    - [ Library-Management-System using C++ and MYSQL](https://github.com/NATASHASAINI/CplusplusSQL) <b></b>
