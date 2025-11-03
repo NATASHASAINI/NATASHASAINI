@@ -17,8 +17,8 @@
  <b> MYSQL </b>
    - [ Application of Filters to SQL Queries](https://github.com/NATASHASAINI/sql) <b></b>
 
-   <b>Programming Language -Python  </b>
-   - [ Number Guessing Game in Python](https://github.com/NATASHASAINI/python) <b></b>
+ <b>Python,Numpy,Pandas,Scikit-Learn  </b>
+   - [Comparative Analysis of Regression Models for California Housing Price Prediction](https://github.com/NATASHASAINI/python) <b></b>
 
  <b>Programming Language -C++  </b>
    - [ Library-Management-System using C++ and MYSQL](https://github.com/NATASHASAINI/CplusplusSQL) <b></b>
