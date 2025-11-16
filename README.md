@@ -2,10 +2,10 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-<b>Python,Numpy,Pandas,Scikit-Learn  </b>
+<b>AL/ML:Python,Numpy,Pandas,Scikit-Learn  </b>
    - [Comparative Analysis of Regression Models for California Housing Price Prediction](https://github.com/NATASHASAINI/python) <b></b>
 
- <b>Azure/Cloud Project</b>
+ <b>Azure/Cloud </b>
   - [Configuring a SOC / Honeynet in Azure(Monitoring Live Traffic)](https://github.com/NATASHASAINI/CLOUD-SOC/tree/main) <b></b>
 
  <b> Azure AD Logging And Monitoring</b>
