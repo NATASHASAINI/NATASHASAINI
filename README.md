@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-<b>AL/ML:Python,Numpy,Pandas,Scikit-Learn,Matplotlib,Seaborn</b>
+<b>AI/ML:Python,Numpy,Pandas,Scikit-Learn,Matplotlib,Seaborn</b>
    - [Comparative Analysis of Regression Models for California Housing Price Prediction](https://github.com/NATASHASAINI/python) <b></b>
    - [Customer Segmentation Using Unsupervised Clustering Algorithms](https://github.com/NATASHASAINI/Machine-Engineering_unsupervisedlearning) <b></b>
  
