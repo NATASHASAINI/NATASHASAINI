@@ -1,7 +1,7 @@
 <h1>Hey, 🌟 Welcome to Natasha Saini's Portfolio! 🌟 <a href="https://github.com/NATASHASAINI"></a>
    
-Explore my work in AI/ML, Cloud, Security,research publications in IEEE/Scopus/Springer and more below.
-Check out my GitHub Profile for even more projects and details!
+Explore my work in AI/ML, Cloud, Security,Research publications in IEEE/Scopus/Springer and more below.
+
 
 <h2>👨‍💻 Projects:</h2>
 
