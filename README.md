@@ -1,4 +1,4 @@
-<h1>Hi, I'm Natasha! <a href="https://github.com/NATASHASAINI">,an I.T Professional</a>
+<h1>Hi, I'm Natasha! <a href="https://github.com/NATASHASAINI">,</a>
 
 <h2>👨‍💻 Projects:</h2>
 
