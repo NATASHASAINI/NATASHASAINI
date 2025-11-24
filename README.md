@@ -41,7 +41,7 @@
    - [Time Series Mastery: Forecasting with ETS, ARIMA, Python](https://www.coursera.org/account/accomplishments/verify/SZAGAE7V09U6) <b></b>
    - [Python for Data Analysis: Pandas & NumPy](https://www.coursera.org/account/accomplishments/verify/DT78812UMT3K) <b></b>
    - [Create Your First Python Program From UST](https://www.coursera.org/account/accomplishments/verify/D1X4V72MA937) <b></b>
-   - [Comptia Security+](https://www.credly.com/badges/50f2d200-5f28-4507-bf9b-8b782e43934f/linked_in?t=rswgt2)) <b></b>
+   - [Comptia Security+](https://www.credly.com/badges/50f2d200-5f28-4507-bf9b-8b782e43934f/linked_in?t=rswgt2) <b></b>
    - [Google Cybersecurity Certificate](https://www.credly.com/badges/2e0a9f42-05bf-4614-850e-4993ebcccec9/linked_in_profile) <b></b>
   
   - [Comptia A+](https://www.credly.com/badges/9a550a1c-13ef-43ed-bf88-b69d38f1a53d/linked_in) <b></b>
