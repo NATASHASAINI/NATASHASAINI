@@ -40,7 +40,7 @@ Explore my projects in AI, Machine Learning, and Cloud Security & discover my re
 
 <b>Certifications</b>:
 
-![image](https://github.com/NATASHASAINI/NATASHASAINI/assets/156629309/2e1f4769-5530-4ae8-8dc7-baa97c178397)
+
    - [Time Series Mastery: Forecasting with ETS, ARIMA, Python](https://www.coursera.org/account/accomplishments/verify/SZAGAE7V09U6) <b></b>
    - [Python for Data Analysis: Pandas & NumPy](https://www.coursera.org/account/accomplishments/verify/DT78812UMT3K) <b></b>
    - [Create Your First Python Program From UST](https://www.coursera.org/account/accomplishments/verify/D1X4V72MA937) <b></b>
