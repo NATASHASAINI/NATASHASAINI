@@ -6,7 +6,7 @@ Explore my projects in AI, Machine Learning, and Cloud Security & discover my re
 <b>AI/ML:Python,Numpy,Pandas,Scikit-Learn,Matplotlib,Seaborn</b>
    - [Comparative Analysis of Regression Models for California Housing Price Prediction](https://github.com/NATASHASAINI/python) <b></b>
    - [Customer Segmentation Using Unsupervised Clustering Algorithms](https://github.com/NATASHASAINI/Machine-Engineering_unsupervisedlearning) <b></b>
-   - [Loan Default Prediction: Finding the Best Ensemble Model](https://github.com/NATASHASAINI/ML_ensemble) <b></b>
+   - [Loan Default Prediction: Finding the Best Ensemble Model(XGBoost,Ada,Cat)](https://github.com/NATASHASAINI/ML_ensemble) <b></b>
 
  
  <b>Azure/Cloud </b>
