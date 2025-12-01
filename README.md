@@ -8,9 +8,6 @@ Explore my projects in AI, Machine Learning, and Cloud Security & discover my re
    - [Comparative Analysis of Regression Models for California Housing Price Prediction](https://github.com/NATASHASAINI/python) <b></b>
    - [Customer Segmentation Using Unsupervised Clustering Algorithms](https://github.com/NATASHASAINI/Machine-Engineering_unsupervisedlearning) <b></b>
    - [Loan Default Prediction: Finding the Best Ensemble Model(XGBoost,Ada,Cat)](https://github.com/NATASHASAINI/ML_ensemble) <b></b>
-
-   Weather Forecasting Using Machine Learning
-
  
  <b>Azure/Cloud </b>
   - [Configuring a SOC / Honeynet in Azure(Monitoring Live Traffic)](https://github.com/NATASHASAINI/CLOUD-SOC/tree/main) <b></b>
