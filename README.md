@@ -3,7 +3,7 @@ Explore my projects in AI, Machine Learning, and Cloud Security & discover my re
 
 <h2>👨‍💻 Projects:</h2>
 
-<b>AI/ML:Python,Numpy,Pandas,Scikit-Learn,TensorFlow,Keras,Matplotlib,Seaborn</b>
+<b>AI/ML:Python,Numpy,Pandas,Scikit-Learn,TensorFlow,Keras,Matplotlib,Hugging face,OpenAI,MongoDBVector embedding</b>
    - [Weather Forecasting Using Machine Learning](https://github.com/NATASHASAINI/ML_WEATHER/blob/main/WEATHERB_pynb.ipynb) <b></b>
    - [Handwritten Digit Recognition Using MLP](https://github.com/NATASHASAINI/deeplearningone/blob/main/tensorflowdeeplearning.ipynb) <b></b>
    - [Comparative Analysis of Regression Models for California Housing Price Prediction](https://github.com/NATASHASAINI/python) <b></b>
