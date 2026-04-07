@@ -5,7 +5,7 @@ Explore my projects in AI, Machine Learning, and Cloud Security & discover my re
 
 <b>AI/ML:Python,Numpy,Pandas,Scikit-Learn,TensorFlow,Keras,Matplotlib,Hugging face,OpenAI,MongoDBVector embedding</b>
    - [PatentAI-USPTO](https://github.com/NATASHASAINI/patent-semantic-search) <b></b>
-   - [AI Job Assistant](https://github.com/NATASHASAINI/ai-job-assistant) <b></b>
+   - [AI-Powered Job Assistant](https://github.com/NATASHASAINI/ai-job-assistant) <b></b>
    - [Weather Forecasting Using Machine Learning](https://github.com/NATASHASAINI/ML_WEATHER/blob/main/WEATHERB_pynb.ipynb) <b></b>
    - [Handwritten Digit Recognition Using MLP](https://github.com/NATASHASAINI/deeplearningone/blob/main/tensorflowdeeplearning.ipynb) <b></b>
    - [Comparative Analysis of Regression Models for California Housing Price Prediction](https://github.com/NATASHASAINI/python) <b></b>
