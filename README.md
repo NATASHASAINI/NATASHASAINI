@@ -4,7 +4,8 @@ Explore my projects in AI, Machine Learning, and Cloud Security & discover my re
 <h2>👨‍💻 Projects:</h2>
 
 <b>AI/ML:Python,Numpy,Pandas,Scikit-Learn,TensorFlow,Keras,Matplotlib,Hugging face,OpenAI,MongoDBVector embedding</b>
-   - [PatentAI-Built and containerized a FastAPI-based patent semantic search platform using Docker, with Kubernetes-ready deployment architecture for scalable AI-powered patent retrieval and drafting workflows](https://github.com/NATASHASAINI/patent-semantic-search) <b></b>
+   - [PatentAI-Built and containerized a FastAPI-based patent semantic search platform using Docker, with Kubernetes-ready deployment architecture for scalable AI-powered patent retrieval       and drafting workflows](https://github.com/NATASHASAINI/patent-semantic-search) <b></b>
+   - [Remembrance – Built and containerized a FastAPI-based AI memory intelligence platform integrating Supabase, FAISS vector search, GPT-4o, and A/B testing workflows to process,   retrieve, and optimize insights from multimodal data (audio, video, PDFs, and text).](https://github.com/NATASHASAINI/patent-semantic-search) <b></b>
    - [RAG system for Discord Bot](https://github.com/NATASHASAINI/chatbot-rag-llm_mongodb/tree/main) <b></b>
    - [AI Resume Generator -Developing an AI tool to generate optimized resumes using LLMs.](https://github.com/NATASHASAINI/ai-job-assistant) <b></b>
    - [Weather Forecasting Using Machine Learning](https://github.com/NATASHASAINI/ML_WEATHER/blob/main/WEATHERB_pynb.ipynb) <b></b>
